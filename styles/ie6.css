@@ -1,0 +1,77 @@
+/* SOFA HOME */
+/* ================================================================================= */
+#wrap, #content 		{width:940px; padding:0 40px; margin-top:16px;}
+#header h4				{border-top:3px double #DDD; border-bottom:3px double #DDD;}
+.grid_2					{width:451px; float:left; margin-right:37px;}
+.grid_2_last			{width:451px; float:left; margin-right:0;}
+.grid_4					{width:206px; float:left; margin-right:37px;}
+.grid_4_last			{width:206px; float:left; margin-right:0;}
+.software .thumbnail	{margin-right:2px;}
+
+/* SOFA BLOG */
+/* ================================================================================= */
+.header					{margin-top:34px;}
+.header .clear 			{height:50px;}
+
+/* BAR */
+.bar p					{height:28px;}
+.bar .previous_title	{margin-left:5px;}
+.bar .next_title		{margin-right:8px;}
+.bar .previous			{float:left; width:313px; text-align:left; margin-top:3px;}
+.bar .date				{float:left; width:313px; text-align:center;}
+.bar .next				{float:left; width:313px; text-align:right; margin-top:3px;}
+
+/* RIGHT COLUMN IMAGE OPTIONS */
+.right_col .align_full_width			{float:right;}
+.right_col .align_image_left			{float:right;}
+.right_col .align_image_left .ie7-fix	{margin-top:0;}
+
+/* RIGHT COLUMN CODE */
+.right_col pre	{font-size:12px; float:right; clear:none; padding:10px; border:1px solid #CCC; margin:20px 0; min-width:none;}
+
+/* DESIGN */
+/* ================================================================================= */
+.design .content					{width:940px;}
+.design .content .grid_2			{width:390px;}
+.design .clear .ie7					{height:0px; margin:0;}
+/* 280 NORTH */
+.design .cappuccino .icon img		{margin-top:-90px; position:relative;}
+.design .aristo .calendar			{width:219px; margin:0 10px 0 14px; padding:0;}
+.design .aristo .calendar small		{width:230px;}
+.design .aristo .window				{width:440px; overflow:hidden; float:right; margin-left:0px;}
+.design .aristo .checkbox			{margin-left:20px;}
+.design .aristo .radiobutton small	{padding-left:20px; display:block;}
+.design .atlas .icon				{width:207px; margin:0; padding:0;}
+.design .atlas .icon img			{margin:0 26px;}
+.design .atlas .window				{width:440px; overflow:hidden; float:right; margin-left:0px;}
+.design .atlas .grid_2				{width:440px; margin:0;}
+.design .aristo .clear				{height:0; margin-bottom:0;}
+/* TOMTOM */
+.design .tomtom .grid_2						{width:560px;}
+.design .tomtom .grid_2_last				{width:380px;}
+.design .tomtom .grid_2 .device img			{margin-top:-50px; position:relative;}
+.design .tomtom .collection					{width:920px;}
+.design .tomtom .collection .grid_8			{width:115px;}
+.design .tomtom								{margin-bottom:0px;}
+/* MOZILLA */
+.design .content.mozilla .software-update	{margin-top:-93px; position:relative;}
+/* NIKE */
+.design .nike .grid_2					{width:300px;}
+.design .nike .grid_2_last				{width:620px;}
+.design .nike .grid_2_last .runners		{margin-top:-79px; position:relative;}
+.design .nike .collection			{width:920px; margin:0 auto; height:300px;}
+.design .nike .collection .grid_3	{width:305px;}
+/* ICON ARCHIVE */
+.design .icon-archive .header						{width:460px;}
+.design .icon-archive .content						{margin-bottom:;}
+.design .icon-archive .content.bg					{background:url("/media/img/design/icon-archive/pattern.gif") repeat-x bottom left #FFF;}
+.design .icon-archive .content .grid_2				{width:460px; margin:0; padding:0;}
+.design .icon-archive .content img.appzapper		{margin-top:-45px; position:relative;}
+.design .icon-archive .content small.appzapper		{margin-top:-134px; position:relative;}
+.design .icon-archive .content img.transmission		{margin-top:-60px; position:relative;}
+.design .icon-archive .content small.transmission	{margin-top:-119px; position:relative;}
+.design .icon-archive .content .grid_4				{width:230px;}
+/* DISCO */
+.design .content.disco .icon			{margin-top:-165px; position:relative;}
+
+#image_popup_container 					{border:1px solid #A0A0A0;}

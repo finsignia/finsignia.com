@@ -1,0 +1,36 @@
+/* SOFA HOME */
+/* ================================================================================= */
+.grid_2			{margin-right:3.9%;}
+.grid_4			{margin-right:3.9%;}
+#header h4				{border-top:3px double #DDD; border-bottom:3px double #DDD;}
+.software .thumbnail	{margin-right:6px;}
+.software .clear 		{margin:0; height:20px;}
+.software .ie7_clear	{margin-bottom:70px;}
+
+
+/* SOFA BLOG */
+/* ================================================================================= */
+.bar					{height:28px;}
+.bar .previous_title	{margin-left:5px;}
+.bar .next_title		{margin-right:8px;}
+.bar .previous			{float:left; width:313px; text-align:left;margin-top:3px;}
+.bar .date				{float:left; width:313px; text-align:center;}
+.bar .next				{float:left; width:313px; text-align:right;margin-top:3px;}
+
+/* RIGHT COLUMN IMAGE OPTIONS */
+.right_col .align_full_width			{float:right;}
+.right_col .align_image_left			{float:right;}
+.right_col .align_image_left .ie7-fix	{margin-top:0;}
+
+/* RIGHT COLUMN CODE */
+.right_col pre	{font-size:12px; float:right; clear:none; padding:10px; border:1px solid #CCC; margin:20px 0; min-width:none;}
+
+
+/* SOFA DESIGN PAGE */
+/* ================================================================================= */
+.design .clear.ie7						{height:0px;}
+.design .tomtom .collection .grid_8		{width:12.4%;}
+.design .icon-archive .content .grid_2	{width:49%;}
+.design .icon-archive .content .grid_4	{width:24%;}
+
+#image_popup_container 					{border:1px solid #A0A0A0;}
